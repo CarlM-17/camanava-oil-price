@@ -1,0 +1,52 @@
+{
+  "prices": [
+    {
+      "id": 1778238573474.829,
+      "fuel_type": "Diesel",
+      "price_min": 93.88,
+      "price_max": 93.88,
+      "price_avg": 93.88,
+      "week_of": "2026-05-08",
+      "source": "fuelprice.ph (DOE-sourced)",
+      "scraped_at": "2026-05-08T11:09:33.474Z"
+    },
+    {
+      "id": 1778238573474.7969,
+      "fuel_type": "Gasoline (RON 91)",
+      "price_min": 97.14,
+      "price_max": 97.14,
+      "price_avg": 97.14,
+      "week_of": "2026-05-08",
+      "source": "fuelprice.ph (DOE-sourced)",
+      "scraped_at": "2026-05-08T11:09:33.474Z"
+    },
+    {
+      "id": 1778238573475.606,
+      "fuel_type": "Gasoline (RON 95)",
+      "price_min": 101.6,
+      "price_max": 101.6,
+      "price_avg": 101.6,
+      "week_of": "2026-05-08",
+      "source": "fuelprice.ph (DOE-sourced)",
+      "scraped_at": "2026-05-08T11:09:33.475Z"
+    },
+    {
+      "id": 1778238573475.3916,
+      "fuel_type": "Kerosene",
+      "price_min": 125.03,
+      "price_max": 125.03,
+      "price_avg": 125.03,
+      "week_of": "2026-05-08",
+      "source": "fuelprice.ph (DOE-sourced)",
+      "scraped_at": "2026-05-08T11:09:33.475Z"
+    }
+  ],
+  "logs": [
+    {
+      "id": 1778238573475,
+      "status": "success",
+      "message": "Scraped 4 fuel prices",
+      "ran_at": "2026-05-08T11:09:33.475Z"
+    }
+  ]
+}
