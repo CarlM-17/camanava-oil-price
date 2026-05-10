@@ -539,4 +539,4 @@ init();
 </html>`);
 });
 
-app.listen(PORT, () => console.log(\`CAMANAVA Oil Price running on port \${PORT}\`));
+app.listen(PORT, () => console.log('CAMANAVA Oil Price running on port ' + PORT));
